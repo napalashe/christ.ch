@@ -11,5 +11,4 @@ Me, myself and I. Working solo is not optimal and I would have appreciated feedb
 I set up the code to be very user friendly, it guides you through the process and even tries to engage with you depending on your selection. One thing I wish I added was a return function however with switch I would have to creat an if else functions instead.
 Other than that the function should operate perfectly! It guides you through and will display the probability at the end.
 ## CODE
-[main.final.cpp]
-mainfinal.cpp
+https://github.com/napalashe/christ.ch/blob/d5a95a098e08f03b2de93740b73b78a3c35bfed5/mainfinal.cpp
