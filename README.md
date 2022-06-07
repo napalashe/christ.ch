@@ -12,3 +12,4 @@ I set up the code to be very user friendly, it guides you through the process an
 Other than that the function should operate perfectly! It guides you through and will display the probability at the end.
 ## CODE
 [main.final.cpp]
+mainfinal.cpp
